@@ -1,0 +1,17 @@
+.row {
+  background-color: yellow;
+}
+
+.col-sm-6 {
+  border: solid 0.5px black;
+}
+
+.col-sm-12 {
+  border: solid 0.5px black;
+}
+
+.fa {
+    font-size: 60px;
+    padding: 10px;
+    border: none;
+}
