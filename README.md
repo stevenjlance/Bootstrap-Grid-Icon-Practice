@@ -5,12 +5,6 @@
 ## The Goal
 In this lab, you will practice various complex layouts to build up the crucial skill of nesting rows and columns. You'll also gain comfort using Font Awesome Icons, which provide important visual cues to users.
 
-### Getting Started
-
-1. Clone this repository using `git clone`
-2. `cd` into the `bootstrap-grid-icon` folder
-3. Open the file `index.html` and preview it. You should see something that looks a lot like the photo above. It is worth noting that every row has a yellow background and every column has a black outline.
-
 ## The Lab
 Head to <a href="https://fontawesome.com/icons?d=gallery&m=free">Font Awesome Icons</a> and substitute the four icons in index.html with four of your choosing. Do not change any of the divs, just the `<i>` tags.
 

@@ -1,12 +1,12 @@
-.row {
+.row, .container {
   background-color: yellow;
 }
 
-.col-sm-6 {
+.col {
   border: solid 0.5px black;
 }
 
-.col-sm-12 {
+.col {
   border: solid 0.5px black;
 }
 
@@ -15,3 +15,4 @@
     padding: 10px;
     border: none;
 }
+
